@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apoorva678
 - 👀 I’m interested in ... Programming and Web Delevopment
-- 🌱 I’m currently learning ... C++ , HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning ... C++, DSA, HTML, CSS and JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... MAIL ME @- apoorva9718@gmail.com
 
